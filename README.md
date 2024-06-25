@@ -16,4 +16,4 @@ There are 8 Courses in this Professional Certificate:
 Certificate :
 ![MY CERTIFICATION](https://github.com/david-fx/Google-Data-Analytics-Professional-Certificate/assets/171530076/1ba77d5f-85fd-41e6-a157-882eb6afaf90)
 
-URL : https://www.coursera.org/account/accomplishments/professional-cert/AAXY2KUAUYLG
+Certificate verification : https://www.coursera.org/account/accomplishments/professional-cert/AAXY2KUAUYLG
